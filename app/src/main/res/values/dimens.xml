@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fashion_main_title_margin_top">64dp</dimen>
+    <dimen name="fashion_main_title_textsize">15sp</dimen>
+    <dimen name="fashion_main_event_margin_top">32dp</dimen>
+    <dimen name="fashion_main_event_textsize">23sp</dimen>
+</resources>

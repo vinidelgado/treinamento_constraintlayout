@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="fashion_main_title_textcolor">#FBDD14</color>
+    <color name="fashion_main_event_textcolor">#FFFFFF</color>
+    <color name="fashion_main_button_background">#FBDD14</color>
+    <color name="fashion_main_button_textcolor">#15120F</color>
+</resources>
